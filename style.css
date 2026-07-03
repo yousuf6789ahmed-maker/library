@@ -193,7 +193,7 @@ details summary {
 
 /* hero strat */
 .hero-container {
-    background: url("/image/hero\ background.jpg")no-repeat;
+    background: url("image/hero.jpg")no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
